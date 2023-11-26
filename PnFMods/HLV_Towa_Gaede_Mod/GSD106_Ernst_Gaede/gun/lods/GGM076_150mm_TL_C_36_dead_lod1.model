@@ -1,0 +1,7 @@
+<GGM076_150mm_TL_C_36_dead_lod1.model>
+	<castsShadow>	true	</castsShadow>
+	<parent>	PnFMods/HLV_Towa_Gaede_Mod/GSD106_Ernst_Gaede/gun/lods/GGM076_150mm_TL_C_36_dead_lod2	</parent>
+	<extent>	8.0000	</extent>
+	<nodefullVisual>	PnFMods/HLV_Towa_Gaede_Mod/GSD106_Ernst_Gaede/gun/lods/GGM076_150mm_TL_C_36_dead_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GGM076_150mm_TL_C_36_dead_lod1.model>

@@ -1,0 +1,13 @@
+<GSD005_Ernst_Gaede_1944_wire.mfm>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/HLV_Towa_Gaede_Mod/GSD106_Ernst_Gaede/ship/GSD005_Ernst_Gaede_1944_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/HLV_Towa_Gaede_Mod/GSD106_Ernst_Gaede/ship/GSD005_Ernst_Gaede_1944_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/HLV_Towa_Gaede_Mod/GSD106_Ernst_Gaede/ship/GSD005_Ernst_Gaede_1944_n.dds	</Texture>
+	</property>
+</GSD005_Ernst_Gaede_1944_wire.mfm>

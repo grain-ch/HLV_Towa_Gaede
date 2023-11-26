@@ -1,0 +1,7 @@
+<GF004_3m_Rangefinder_Night_HA.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/HLV_Towa_Gaede_Mod/GSD106_Ernst_Gaede/finder/lods/GF004_3m_Rangefinder_Night_HA_lod1	</parent>
+	<extent>	2.0000	</extent>
+	<nodefullVisual>	PnFMods/HLV_Towa_Gaede_Mod/GSD106_Ernst_Gaede/finder/GF004_3m_Rangefinder_Night_HA	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GF004_3m_Rangefinder_Night_HA.model>
