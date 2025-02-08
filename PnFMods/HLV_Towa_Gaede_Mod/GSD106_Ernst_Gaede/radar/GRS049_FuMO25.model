@@ -1,17 +1,8 @@
 <GRS049_FuMO25.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/HLV_Towa_Gaede_Mod/GSD106_Ernst_Gaede/radar/lods/GRS049_FuMO25_lod1	</parent>
-	<extent>	3.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Towa_Gaede_Mod/GSD106_Ernst_Gaede/radar/GRS049_FuMO25	</nodefullVisual>
-	<animation>
-		<name>	Rotation5rpm	</name>
-		<frameRate>	30.0000	</frameRate>
-		<nodes>	content/animation/common/Rotation5rpm	</nodes>
-	</animation>
-	<action>
-		<name>	idle	</name>
-		<animation>	Rotation5rpm	</animation>
-		<filler>	true	</filler>
-	</action>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Towa_Gaede_Mod/GSD106_Ernst_Gaede/radar/GRS049_FuMO25.visual	</visual>
+	<animations>
+		<animation>	content/animation_state_machines/legacy/gameplay/GRS049_FuMO25/GRS049_FuMO25.ssm	</animation>
+	</animations>
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </GRS049_FuMO25.model>

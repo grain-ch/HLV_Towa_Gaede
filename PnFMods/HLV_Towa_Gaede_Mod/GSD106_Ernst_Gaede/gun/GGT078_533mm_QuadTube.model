@@ -1,7 +1,6 @@
 <GGT078_533mm_QuadTube.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_Towa_Gaede_Mod/GSD106_Ernst_Gaede/gun/lods/GGT078_533mm_QuadTube_lod1	</parent>
-	<extent>	3.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Towa_Gaede_Mod/GSD106_Ernst_Gaede/gun/GGT078_533mm_QuadTube	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Towa_Gaede_Mod/GSD106_Ernst_Gaede/gun/GGT078_533mm_QuadTube.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </GGT078_533mm_QuadTube.model>

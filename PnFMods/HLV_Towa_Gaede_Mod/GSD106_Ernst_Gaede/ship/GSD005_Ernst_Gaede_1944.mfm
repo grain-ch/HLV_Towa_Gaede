@@ -1,18 +1,18 @@
 <GSD005_Ernst_Gaede_1944.mfm>
 	<!--<fx>	shaders/std_effects/PBS_ship.fx	</fx>-->
 	<fx>	shaders/std_effects/PBS_ship_emissive.fx	</fx>
-<property>	emissivePower
-	<Float>	0.60000	</Float>
-</property>
-<property>	doubleSided
-	<Bool>	false	</Bool>
-</property>
-<property>	alphaTestEnable
-	<Bool>	true	</Bool>
-</property>
-<property>	alphaReference
-	<Int>	150	</Int>
-</property>
+	<property>	emissivePower
+		<Float>	0.60000	</Float>
+	</property>
+	<property>	doubleSided
+		<Bool>	false	</Bool>
+	</property>
+	<property>	alphaTestEnable
+		<Bool>	true	</Bool>
+	</property>
+	<property>	alphaReference
+		<Int>	150	</Int>
+	</property>
 	<collisionFlags>	0	</collisionFlags>
 	<property>	ambientOcclusionMap
 		<Texture>	PnFMods/HLV_Towa_Gaede_Mod/GSD106_Ernst_Gaede/ship/GSD005_Ernst_Gaede_1944_ao.dds	</Texture>

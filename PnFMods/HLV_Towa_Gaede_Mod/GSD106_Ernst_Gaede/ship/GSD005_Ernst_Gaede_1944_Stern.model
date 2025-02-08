@@ -1,7 +1,6 @@
 <GSD005_Ernst_Gaede_1944_Stern.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_Towa_Gaede_Mod/GSD106_Ernst_Gaede/ship/lods/GSD005_Ernst_Gaede_1944_Stern_lod1	</parent>
-	<extent>	7.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Towa_Gaede_Mod/GSD106_Ernst_Gaede/ship/GSD005_Ernst_Gaede_1944_Stern	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Towa_Gaede_Mod/GSD106_Ernst_Gaede/ship/GSD005_Ernst_Gaede_1944_Stern.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </GSD005_Ernst_Gaede_1944_Stern.model>
